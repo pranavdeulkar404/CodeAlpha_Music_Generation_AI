@@ -1,4 +1,4 @@
-!pip install tensorflow tensorflow-datasets magenta
+pip install tensorflow tensorflow-datasets magenta
 
 import tensorflow as tf
 import tensorflow_datasets as tfds
